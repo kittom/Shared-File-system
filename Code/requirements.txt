@@ -1,0 +1,7 @@
+PyQt5
+requests
+cryptography 
+django-sslserver
+django
+django-widget-tweaks
+djangorestframework
